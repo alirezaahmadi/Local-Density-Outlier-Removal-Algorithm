@@ -8,7 +8,8 @@ As scanned point clouds are usually noisy, sparse and temporarily incoherent, th
 
  ---
 
-###Local density base: 
+###Local density base
+
 As the sample distribution of visual sensors which provide depth information is scattered with different densities based on occlusion, viewing angle and the environment geometry, the aim of this section is to remove inconsistent points from input point set based on the geometry and density information. Almost, there are three different types of outliers which could be found in point clouds, the sparse outlier, isolated outliers comprising from a limit number of points grouped together and far from true objects region and non-isolated outliers which are closer to the model and it’s hard to remove them [15]. If we suppose, point set P = {p 1 , p 2 , p 3 , ..., p N }, we need to compute the covariance matrix of each point based on its neighborhood. Let define query Q = {q 1 , q 2 , q 3 , . . . , q k } which shows KN N (pi) as the k Nearest Neighbors of point p i . To compute the density information, we need to examine each point from point cloud over its k nearest neighbor. the local density can be estimated by calculating average distance of p i of its k nearest neighbor q j (j = 1, ..., k) as
 
 <div align="center">
