@@ -1,5 +1,5 @@
 /*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Local-Density-Outlier-Removal-Algorithm                    %
+% Local-Density-Outlier-Removal-Algorithm                   %
 % by: Alireza Ahmadi                                        %
 % University of Bonn- MSc Robotics & Geodetic Engineering   %
 % Alireza.Ahmadi@uni-bonn.de                                %
