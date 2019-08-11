@@ -24,7 +24,7 @@ If we assume to have, point set P = {p 1 , p 2 , p 3 , ..., p N }, we need to co
 Let define query Q = {q 1 , q 2 , q 3 , . . . , q k } which shows KNN(pi) as the k Nearest Neighbors set of point i-th p  in the main data-set . To compute the density information, we need to examine each point from point cloud over its k nearest neighbor. the local density can be estimated by calculating average distance of pi of its k nearest neighbor qj (j = 1, ..., k) as
 
 <div align="center">
-	<img src="/images/ld1.png"  width="300"/>
+	<img src="/images/ld1.png"  width="200"/>
 </div>
 
 where i = 1, 2, ..., k and dist(p i , q j ) is the Euclidean distance between p i and q j . Hence the local density can be estimated using
