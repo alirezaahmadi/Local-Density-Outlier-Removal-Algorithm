@@ -1,9 +1,10 @@
-/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%Pointcloud Registration C++/ROS Kinect 360-featured base   %
+/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%Local-Density-Outlier-Removal-Algorithm                    %
 % by: Alireza Ahmadi                                        %
 % University of Bonn- MSc Robotics & Geodetic Engineering   %
 % Alireza.Ahmadi@uni-bonn.de                                %
 % AlirezaAhmadi.xyz                                         %
+/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 The MIT License
 
 Copyright (c) 2010-2019 Google, Inc. 
