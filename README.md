@@ -42,9 +42,16 @@ in the dataset, is really expensive and without utilizing the
 KD-tree its almost impossible to get proper runtime.
 
 <div align="center">
-	<img src="/images/ld3.png"  width="300"/>
+	<img src="/images/ld3.png"  width="700"/>
 </div>
 
 Local density Analyses. The out put of outlier removal based on
 local density analyses is depicted in picture in the left beside the original
 dataset which is passed from downsampling step.
+
+--- 
+ by: Alireza Ahmadi                                     
+ University of Bonn- Robotics & Geodetic Engineering
+
+ Alireza.Ahmadi@uni-bonn.de                             
+ [www.AliezaAhmadi.xyz](https://www.AlirezaAhmadi.xyz)
